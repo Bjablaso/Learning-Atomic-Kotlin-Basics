@@ -1,4 +1,4 @@
-package travelaround.Basic
+package travelaround.Kotlincentral.KotlinBasic
 
 
 fun main(args: Array<String>) {

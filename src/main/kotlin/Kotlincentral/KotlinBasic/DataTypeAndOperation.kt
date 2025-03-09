@@ -1,4 +1,4 @@
-package travelaround.Basic
+package travelaround.Kotlincentral.KotlinBasic
 
 fun main() {
     // Data type are -> specifies the kind of value a variable can hold
