@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
 
     //Declaration - is the process of finding a variable without assigning a value.
     val dob : String
-    var age_ : Int
+     var age_ : Int
     //Initialization is the process of assigning value two or variable.
     dob = "18 March 2023"
     age = 15
@@ -47,5 +47,11 @@ fun main(args: Array<String>) {
 
     println("Here is the lisst of Bairth Date " + listOfDOB) // we can also use string concatenation
 
+    // how do we fix this problem (this is done by using the const keyword)
+
+    // const - keyword use to create a constant variable that is void or assignment and state change once initializes
+ //  const val listDOBX: ArrayList<String> = arrayListOf(dateOfBirth, dob) -> oly applicable in global variable
+
+    // use lateinit in a class global variable
 
 }
